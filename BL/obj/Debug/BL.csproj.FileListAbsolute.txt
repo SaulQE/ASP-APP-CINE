@@ -1,0 +1,11 @@
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\BL\bin\Debug\BL.dll
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\BL\bin\Debug\BL.pdb
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\BL\bin\Debug\BE.dll
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\BL\bin\Debug\DB.exe
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\BL\bin\Debug\BE.pdb
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\BL\bin\Debug\DB.pdb
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\BL\obj\Debug\BL.dll
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\BL\obj\Debug\BL.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\BE\bin\Debug\BE.dll
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\BE\bin\Debug\BE.pdb
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\BE\obj\Debug\BE.dll
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\BE\obj\Debug\BE.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\DB\bin\Debug\DB.pdb
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\DB\obj\Debug\DB.pdb
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\DB\bin\Debug\DB.exe
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\DB\obj\Debug\DB.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\000_L-COD\.NET\AppCine\DB\obj\Debug\DB.exe
